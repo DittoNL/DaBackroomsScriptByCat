@@ -1,5 +1,5 @@
 ## Da backrooms Script
-An open source GUI Da Backrooms script.
+by cat
 
 > [!NOTE]
 > Mobile may behave differently than PC.
